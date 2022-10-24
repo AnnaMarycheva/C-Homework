@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks.csproj": {}
+    "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks2\\homeworks2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks.csproj": {
+    "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks2\\homeworks2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks.csproj",
-        "projectName": "homeworks",
-        "projectPath": "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks.csproj",
+        "projectUniqueName": "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks2\\homeworks2.csproj",
+        "projectName": "homeworks2",
+        "projectPath": "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks2\\homeworks2.csproj",
         "packagesPath": "C:\\Users\\maryc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maryc\\seminar_C#\\homeworks\\obj\\",
+        "outputPath": "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maryc\\AppData\\Roaming\\NuGet\\NuGet.Config"
