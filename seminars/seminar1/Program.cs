@@ -31,6 +31,6 @@ int num1 = Convert.ToInt32 (Console.ReadLine());
 Console.WriteLine("input second number ");
 int num2 = Convert.ToInt32 (Console.ReadLine());
 int quad2 = num2 * num2;
-if ( num1 == quad2)
+if ( num1 == quad2) 
    Console.WriteLine($"{num1} является квадратом {num2}");
 else Console.WriteLine($"{num1} не является квадратом {num2}");

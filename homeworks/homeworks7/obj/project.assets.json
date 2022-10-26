@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maryc\\seminar_C#\\seminars\\seminar1\\seminar1.csproj",
-      "projectName": "seminar1",
-      "projectPath": "C:\\Users\\maryc\\seminar_C#\\seminars\\seminar1\\seminar1.csproj",
+      "projectUniqueName": "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks7\\homeworks7.csproj",
+      "projectName": "homeworks7",
+      "projectPath": "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks7\\homeworks7.csproj",
       "packagesPath": "C:\\Users\\maryc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maryc\\seminar_C#\\seminars\\seminar1\\obj\\",
+      "outputPath": "C:\\Users\\maryc\\seminar_C#\\homeworks\\homeworks7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maryc\\AppData\\Roaming\\NuGet\\NuGet.Config"
