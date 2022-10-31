@@ -6,7 +6,6 @@
 Console.WriteLine("Введите натуральное число больше 1:");
 int num = int.Parse(Console.ReadLine());
 
-///Метод вывода натуральных чисел от N до 1:
 void Number (int number)
 {
     if (number < 0) Console.Write($"{number} не натуральное число");
