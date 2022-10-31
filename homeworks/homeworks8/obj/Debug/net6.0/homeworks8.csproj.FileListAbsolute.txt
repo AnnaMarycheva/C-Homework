@@ -1,0 +1,15 @@
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\bin\Debug\net6.0\homeworks8.exe
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\bin\Debug\net6.0\homeworks8.deps.json
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\bin\Debug\net6.0\homeworks8.runtimeconfig.json
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\bin\Debug\net6.0\homeworks8.dll
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\bin\Debug\net6.0\homeworks8.pdb
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\homeworks8.csproj.AssemblyReference.cache
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\homeworks8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\homeworks8.AssemblyInfoInputs.cache
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\homeworks8.AssemblyInfo.cs
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\homeworks8.csproj.CoreCompileInputs.cache
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\homeworks8.dll
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\refint\homeworks8.dll
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\homeworks8.pdb
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\homeworks8.genruntimeconfig.cache
+C:\Users\maryc\seminar_C#\homeworks\homeworks8\obj\Debug\net6.0\ref\homeworks8.dll
